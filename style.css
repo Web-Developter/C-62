@@ -1,0 +1,98 @@
+body {
+    text-align: center;
+    background-color:greenyellow;
+
+}
+
+.link {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 140px;
+    padding-right: 140px;
+    text-decoration: none;
+    text-align: center;
+    float: left;
+    font-size: 20px;
+}
+
+#menu {
+
+    list-style: none;
+    font-family: cursive;
+    position: fixed;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+.link:hover {
+    background-color: black;
+    color: white;
+}
+
+.link2 {
+    text-decoration: none;
+    color: royalblue;
+}
+
+.link2:hover {
+    color: white;
+    background-color: black;
+}
+
+.link:active {
+    text-decoration-style: wavy;
+}
+
+.img1 {
+    width: 20%x;
+    height: 25%;
+    
+    
+    background-color: bisque;
+
+}
+#gif{
+    width:40%;
+    height: 60%;
+}
+.img2 {
+    width: 20%;
+    height: 25%;
+    
+    
+    background-color: bisque;
+}
+#grid{
+    background-color: bisque;
+    height: 800px;
+    
+}
+.container {
+    text-align: center;
+background-color:bisque;
+   
+    
+}
+#home{
+    background-color: bisque;
+    height: 800px;
+}
+.slide_flowers{
+  width:50%;
+    height: 30%;
+}
+
+#MyCarousel img {
+    height: 500px;
+    margin-top: 35px;
+}
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+#MyCarousel{
+    height: 700px;
+}
